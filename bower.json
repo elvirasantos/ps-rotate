@@ -1,0 +1,21 @@
+{
+  "name": "ps-rotate",
+  "version": "0.0.1",
+  "authors": [
+    "elvirasantos <hello@elvirasantos.com>"
+  ],
+  "description": "a simple element rotate library",
+  "main": "rotate.js",
+  "keywords": [
+    "rotate"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ]
+}
